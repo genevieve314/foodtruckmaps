@@ -7,5 +7,5 @@ angular.module('main.controller',['uiGmapgoogle-maps'])
     	});
 	})
 	.controller('MainController', function($scope){
-		$scope.map = { center: { latitude: 45, longitude: -73 }, zoom: 8 };
+		$scope.map = { center: { latitude: 37.7833, longitude: -122.4167 }, zoom: 10 };
 	});
