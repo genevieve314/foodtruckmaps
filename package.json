@@ -1,0 +1,23 @@
+{
+  "name": "foodtrk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/client/app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genevieve314/foodtruckmaps.git"
+  },
+  "author": "gkolve@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genevieve314/foodtruckmaps/issues"
+  },
+  "homepage": "https://github.com/genevieve314/foodtruckmaps#readme"
+}
