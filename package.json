@@ -2,7 +2,7 @@
   "name": "foodtrk",
   "version": "1.0.0",
   "description": "",
-  "main": "/client/app.js",
+  "main": "/server/server.js",
   "dependencies": {
     "express": "^4.13.4"
   },
